@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+body {font-family: 'Source Sans Pro', sans-serif;
+}
+label.label-deco.budget-deco {
+	padding-left: 15px;
+}
+.add-btn-req {
+	text-align: right;
+	margin-bottom: 15px;
+}
+.add-btn-req .fa {
+	background-color: red;
+	border-radius: 50%;
+	width: 30px;
+	height: 30px;
+	text-align: center;
+	line-height: 30px;
+	color: #fff;
+}
+.pdng-adpst.wed-pln {
+	background-color: #fff;
+	 -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+    -moz-box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+}
+#req-cat{
+	display:none;
+}
+.left-blck-crte.crte-wed-lft {
+	padding: 60px 0;
+}
